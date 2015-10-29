@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <category-def name="SourceEditing" label="WTP SourceEditing">Editors to efficiently develop XML/HTNML/JSP</category-def>
+   <feature id="org.eclipse.wst.web_core.feature" version="0.0.0">
+      <category name="WEB_CORE"/>
+   </feature>
+   <feature id="org.eclipse.wst.web_sdk.feature" version="0.0.0">
+      <category name="WEB_SDK"/>
+   </feature>
+   <feature id="org.eclipse.wst.web_tests.feature" version="0.0.0">
+      <category name="WEB_TESTS"/>
+   </feature>
+   <feature id="org.eclipse.wst.web_ui.feature" version="0.0.0">
+      <category name="WEB_UI"/>
+   </feature>
+   <feature id="org.eclipse.wst.web_userdoc.feature" version="0.0.0">
+      <category name="WEB_USERDOC"/>
+   </feature>
+   <feature id="org.eclipse.wst.xml_core.feature" version="0.0.0">
+      <category name="XML_CORE"/>
+   </feature>
+   <feature id="org.eclipse.wst.xml_sdk.feature" version="0.0.0">
+      <category name="XML_SDK"/>
+   </feature>
+   <feature id="org.eclipse.wst.xml_tests.feature" version="0.0.0">
+      <category name="XML_TESTS"/>
+   </feature>
+   <feature id="org.eclipse.wst.xml_ui.feature" version="0.0.0">
+      <category name="XML_UI"/>
+   </feature>
+   <feature id="org.eclipse.wst.xml_userdoc.feature" version="0.0.0">
+      <category name="XML_USERDOC"/>
+   </feature>
+</site>
